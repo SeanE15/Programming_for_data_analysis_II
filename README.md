@@ -23,3 +23,5 @@ https://www.neuraldesigner.com/learning/examples/breast-cancer-diagnosis#:~:text
 
 https://towardsdatascience.com/building-a-simple-machine-learning-model-on-breast-cancer-data-eca4b3b99fa3
 
+https://medium.com/@shashmikaranam/exploratory-data-analysis-breast-cancer-wisconsin-diagnostic-dataset-6a3be9525cd 
+
