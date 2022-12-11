@@ -25,3 +25,8 @@ https://towardsdatascience.com/building-a-simple-machine-learning-model-on-breas
 
 https://medium.com/@shashmikaranam/exploratory-data-analysis-breast-cancer-wisconsin-diagnostic-dataset-6a3be9525cd 
 
+https://stackoverflow.com/questions/37346481/how-do-i-find-and-replace-all-occurrences-in-all-files-in-visual-studio-code 
+
+https://www.pluralsight.com/guides/validating-machine-learning-models-scikit-learn/
+
+https://www.pluralsight.com/guides/scikit-machine-learning/
