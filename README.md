@@ -30,3 +30,7 @@ https://stackoverflow.com/questions/37346481/how-do-i-find-and-replace-all-occur
 https://www.pluralsight.com/guides/validating-machine-learning-models-scikit-learn/
 
 https://www.pluralsight.com/guides/scikit-machine-learning/
+
+https://www.youtube.com/watch?v=ShxCPedWCDk
+
+https://www.youtube.com/watch?v=2ncx2q5GHbQ&t=634s
