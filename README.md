@@ -34,3 +34,10 @@ https://www.pluralsight.com/guides/scikit-machine-learning/
 https://www.youtube.com/watch?v=ShxCPedWCDk
 
 https://www.youtube.com/watch?v=2ncx2q5GHbQ&t=634s
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC55130/?page=4
+
+https://www.mariekeating.ie/cancer-information/breast-cancer/finding-breast-cancer-early/ 
+
+Proc. Natl. Acad. Sci. USA, Vol. 87, pp. 9193-9196, December 1990, Applied Mathematics, 'Multisurface method of pattern separation for medical diagnosis applied to breast cytology' WILLIAM H. WOLBERG AND OLVI L. MANGASARIAN
+
