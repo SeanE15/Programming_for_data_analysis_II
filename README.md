@@ -2,10 +2,20 @@
 
 References:
 
+(3) https://towardsdatascience.com/the-perfect-recipe-for-classification-using-logistic-regression-f8648e267592#:~:text=Logistic%20Regression%20is%20a%20classification%20technique%20used%20in%20machine%20learning,cancer%20is%20malignant%20or%20not).
+
+https://learn.theprogrammingfoundation.org/getting_started/intro_data_science/module4/?gclid=EAIaIQobChMIlK7v-7OG_AIVEe7tCh0RawuQEAAYASAAEgKbzPD_BwE
+
+http://cs.wellesley.edu/~cs305/lectures/3_kNN.pdf
+
+(4) https://www.w3schools.com/python/python_ml_knn.asp
+
+https://medium.com/@madanflies/k-nearest-neighbour-for-classification-on-breast-cancer-data-results-with-preprocessing-and-w-o-e21b0cc98a2f
+
 https://archive.ics.uci.edu/ml/datasets/breast+cancer+wisconsin+%28original%29
 
 https://archive.ics.uci.edu/ml/datasets/breast+cancer+wisconsin+(diagnostic)
-)
+
 
 https://www.researchgate.net/publication/311950799_Analysis_of_the_Wisconsin_Breast_Cancer_Dataset_and_Machine_Learning_for_Breast_Cancer_Detection
 
