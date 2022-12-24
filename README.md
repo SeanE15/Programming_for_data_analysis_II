@@ -16,7 +16,6 @@ https://archive.ics.uci.edu/ml/datasets/breast+cancer+wisconsin+%28original%29
 
 https://archive.ics.uci.edu/ml/datasets/breast+cancer+wisconsin+(diagnostic)
 
-
 https://www.researchgate.net/publication/311950799_Analysis_of_the_Wisconsin_Breast_Cancer_Dataset_and_Machine_Learning_for_Breast_Cancer_Detection
 
 https://www.uicc.org/what-we-do/thematic-areas-work/breast-cancer?gclid=EAIaIQobChMIutzCy4Hv-wIVybHtCh0XWQfTEAAYAiAAEgK8F_D_BwE
@@ -48,6 +47,9 @@ https://www.youtube.com/watch?v=2ncx2q5GHbQ&t=634s
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC55130/?page=4
 
 https://www.mariekeating.ie/cancer-information/breast-cancer/finding-breast-cancer-early/ 
+
+https://www.datacamp.com/cheat-sheet/machine-learning-cheat-sheet
+
 
 Proc. Natl. Acad. Sci. USA, Vol. 87, pp. 9193-9196, December 1990, Applied Mathematics, 'Multisurface method of pattern separation for medical diagnosis applied to breast cytology' WILLIAM H. WOLBERG AND OLVI L. MANGASARIAN
 
