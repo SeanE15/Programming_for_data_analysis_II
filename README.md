@@ -50,6 +50,10 @@ https://www.mariekeating.ie/cancer-information/breast-cancer/finding-breast-canc
 
 https://www.datacamp.com/cheat-sheet/machine-learning-cheat-sheet
 
+https://towardsdatascience.com/comparative-study-on-classic-machine-learning-algorithms-24f9ff6ab222#:~:text=Logistic%20Regression%20vs%20KNN%20%3A,can%20only%20output%20the%20labels.
+
+https://www.ibm.com/docs/en/db2woc?topic=procedures-statistics-parametric-nonparametric
+
 
 Proc. Natl. Acad. Sci. USA, Vol. 87, pp. 9193-9196, December 1990, Applied Mathematics, 'Multisurface method of pattern separation for medical diagnosis applied to breast cytology' WILLIAM H. WOLBERG AND OLVI L. MANGASARIAN
 
