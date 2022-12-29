@@ -57,3 +57,11 @@ https://www.ibm.com/docs/en/db2woc?topic=procedures-statistics-parametric-nonpar
 
 Proc. Natl. Acad. Sci. USA, Vol. 87, pp. 9193-9196, December 1990, Applied Mathematics, 'Multisurface method of pattern separation for medical diagnosis applied to breast cytology' WILLIAM H. WOLBERG AND OLVI L. MANGASARIAN
 
+https://www.researchgate.net/profile/Djihane-Houfani/publication/339062376_Machine_Learning_Techniques_for_Breast_Cancer_Diagnosis_Literature_Review/links/5e7a8529299bf1f3873fbf27/Machine-Learning-Techniques-for-Breast-Cancer-Diagnosis-Literature-Review.pdf 
+
+https://iopscience.iop.org/article/10.1088/1757-899X/1022/1/012071/pdf 
+
+
+https://link.springer.com/chapter/10.1007/978-3-030-36664-3_28
+
+Alshayeji, Mohammad & ellethy, hanem & Abed, Sa'Ed & Gupta, Renu. (2022). Computer-aided detection of breast cancer on the Wisconsin dataset: An artificial neural networks approach. Biomedical Signal Processing and Control. 71. 103141. 10.1016/j.bspc.2021.103141. 
