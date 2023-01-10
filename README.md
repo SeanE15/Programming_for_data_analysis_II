@@ -14,28 +14,31 @@ Hello, and welcome to my github repository. This repository has been created in 
 [1] Wisconsin Breast Cancer Dataset description
 [2] Dataset Information
 [3] Literature Review
-    - Glossary of ML Acronyms
+    * Glossary of ML Acronyms
 [4] What is Breast Cancer?
-    - Database Terms
-    - Types of Cancer
+    * Database Terms
+    * Types of Cancer
 [5] Introduction to the Data
 [6] Analysing the Data
-    - Heatmaps
-    - Pairplot
-    - Barplot/Catplots
+    * Heatmaps
+    * Pairplot
+    * Barplot/Catplots
 [7] Synthesizing the Data
-    - Logistic Regression
-    - K-Nearest Neighbor
-    - Naive Bayes
-    
-[8] References
+    * Logistic Regression
+    * K-Nearest Neighbor (Scaled and Unscaled)
+    * Naive Bayes
+    * Support Vector Classifier
+[8] Results of Classifier Training
+[9] Extending the Dataset 
+[10] References
 
 ----
 
-
 **The breakdown of the repository content is as follows:**
 
+* breast-cancer-wisconsin.names.txt - A prerequisite when using the dataset; a file which is requested to accompany the dataset by the author on the UCI website.
 
+* wdbc.names.txt - Another definition file which has to accompany the dataset. 
 
 ## <div align="center">System Requirements</div>
 
@@ -53,7 +56,7 @@ Python and jupyter lab are needed to run the .ipnb files in this repository.
 
 [2] Type pip install jupyterlab and press enter.
 
-[3] Follow the steps below to runthe notebook.
+[3] Follow the steps below to run the notebook.
 
 Please see the official [Installation](https://jupyterlab.readthedocs.io/en/stable/getting_started/installation.html) of Jupyter Lab page if you are having issues.
 
@@ -81,6 +84,6 @@ Please see the official [Installation](https://jupyterlab.readthedocs.io/en/stab
 
 ## <div align="center">Credits</div>
 
-- My wife Donna McCafferty for her patience
+- My wife Donna for her patience
 
 - Google and its many wonders
