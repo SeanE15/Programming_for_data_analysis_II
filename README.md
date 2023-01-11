@@ -11,25 +11,37 @@ Hello, and welcome to my github repository. This repository has been created in 
 
 **The breakdown of the 'Assignment' Jupyter Notebook content is as follows:**
 
-[1] Wisconsin Breast Cancer Dataset description
+[1] Wisconsin Breast Cancer Dataset description 
+
 [2] Dataset Information
+
 [3] Literature Review
+
     * Glossary of ML Acronyms
+    
 [4] What is Breast Cancer?
+
     * Database Terms
     * Types of Cancer
+    
 [5] Introduction to the Data
+
 [6] Analysing the Data
+
     * Heatmaps
     * Pairplot
     * Barplot/Catplots
 [7] Synthesizing the Data
+
     * Logistic Regression
     * K-Nearest Neighbor (Scaled and Unscaled)
     * Naive Bayes
     * Support Vector Classifier
+    
 [8] Results of Classifier Training
+
 [9] Extending the Dataset 
+
 [10] References
 
 ----
